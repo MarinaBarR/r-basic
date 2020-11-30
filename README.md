@@ -9,11 +9,12 @@ Conoce toda la estadística descriptiva de la mano de Juan Gabriel Gomila y asie
 * Uso de gráficos para representar datos estadísticos incluyendo plots de nubes de puntos, histogramas, diagramas circulares o diagramas de caja y bigotes entre otros. Además tendrás ejemplos tanto en R como con matplotlib de Python.
 * Introducción a las técnicas de machine learning como por ejemplo la regresión lineal.
 * Profundización en tipos de datos cualitativos, cuantitativos  y ordinales y el correcto análisis de cada uno de ellos.
-* Repositorio Github con todo el material del curso para disponer de los mismos scripts que usamos en clase desde el minuto inicial.
+* Repositorio Github con todo el material del curso para disponer de los mismos SCRIPTS que usamos en clase desde el minuto inicial.
 
-Una vez termines el curso podrás seguir con los mejores cursos de análisis de datos publicados por Juan Gabriel Gomila como los cursos de Machine Learning con Python o RStudio o el Curso de Data Science con Tidyverse y RStudio. Todo el material del curso está enfocado en resolver los problemas de falta de base que presentan los estudiantes de esos cursos avanzados y poderlo hacer en un curso a parte te permitirá nivelar tus conocimientos y tomar los otros cursos con garantías de éxito.
+Una vez termines el curso podrás seguir con los mejores cursos de análisis de datos publicados por Juan Gabriel Gomila como los cursos de Machine Learning con Python o RStudio o el Curso de Data Science con Tidyverse y RStudio. Todo el material del curso está enfocado en resolver los problemas de falta de base que presentan los estudiantes de esos cursos avanzados y poderlo hacer en un curso a parte te permitir�a de éxito.
 
-1. Trabajando con R y con Python
+1. Trabajando con R y con PYTHON
+2.5 prueba de trabajo
 2. Documentación con R Markdown
 3. Estructuras de datos
 4. Introducción a la representación gráfica
